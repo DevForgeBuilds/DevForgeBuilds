@@ -198,3 +198,17 @@
 <p align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="180" alt="thank you" />
 </p>
+<!-- ============================================================ -->
+<!--                       CALL TO ACTION                         -->
+<!-- ============================================================ -->
+<div align="center">
+
+### 🟢 Ready to collaborate? Let's build something great.
+
+We are currently taking on new clients for **Web Development**, **UI/UX Design**, and **Automation Solutions**. 
+
+**📞 +91 98752 68070** &nbsp; | &nbsp; **✉️ [devforge.builds@gmail.com](mailto:devforge.builds@gmail.com)**
+
+*If you find our open-source tools or templates helpful, consider giving our repositories a ⭐️!*
+
+</div>
