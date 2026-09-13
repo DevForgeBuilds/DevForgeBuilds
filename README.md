@@ -1,179 +1,156 @@
-<!-- ============================================================ -->
-<!--                       DYNAMIC HEADER                         -->
-<!-- ============================================================ -->
-<div align="center">
+ 👋 Hi, I'm DevForge
 
-<!-- Animated Waving Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D2B1D&height=220&section=header&text=DEVFORGE&fontSize=70&fontAlignY=35&desc=Digital%20Product%20Studio%20//%20Software%20Engineering&descAlignY=55&descSize=20&animation=twinkling&fontColor=4ADE80" />
+  <p align="center">
+    <img src="https://media.giphy.com/media/du3E3cGZpduQMHekbS/giphy.gif" width="80" alt="wave" />
+  </p>
 
-<!-- Animated Typing Text -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=4ADE80&center=true&vCenter=true&width=800&height=50&lines=Software+Products+%26+Business+Solutions;Humanized+UI%2FUX+%26+Brand+Identities;Workflow+Automation+%26+AI+Integration;Ideas+Into+Impact.;Solve.+Build.+Scale.+Together." alt="Typing SVG" />
-</a>
+  <h3 align="center">Building digital products that feel human</h3>
 
-<p align="center">
-  <b>📍 Based in Ahmedabad, India | Engineering A Brighter Digital Tomorrow</b>
-</p>
+  <p align="center">
+    <a href="https://github.com/DevForgeBuilds?tab=followers">
+      <img src="https://img.shields.io/github/followers/DevForgeBuilds?label=Followers&style=social" alt="GitHub
+  Followers" />
+    </a>
+    <a href="https://github.com/DevForgeBuilds?tab=stars">
+      <img src="https://img.shields.io/github/stars/DevForgeBuilds?style=social" alt="GitHub Stars" />
+    </a>
+    <a href="https://linkedin.com/company/devforge-builds">
+      <img src="https://img.shields.io/badge/LinkedIn-DevForge-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"
+  />
+    </a>
+  </p>
 
-[![Contact Us](https://img.shields.io/badge/📧_Email_Us-devforge.builds@gmail.com-D14836?style=for-the-badge)](mailto:devforge.builds@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-DevForge-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/devforge-builds)
-[![Instagram](https://img.shields.io/badge/Instagram-@devforge.builds-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/devforge.builds)
-[![Website](https://img.shields.io/badge/🚀_Visit_Our_Website-000000?style=for-the-badge)](#)
+  <hr>
 
-<br>
+  🌟 About Me
 
-> ### ✦ I D E A S &nbsp; I N T O &nbsp; I M P A C T
-> *We are a specialized engineering and design studio. We reject artificial, overly complex templates in favor of humanized, professional design aesthetics and highly scalable architecture. From initial wireframes to fully deployed business management systems, we build interfaces that look sharp and hold up under real use.*
+  I'm a full-stack developer & UI/UX designer based in Ahmedabad, India. I run DevForge - a small studio where we craft
+  digital experiences that are:
 
-</div>
+  <div align="left">
+    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="24" align="left" alt="heart" />
+    &nbsp;<strong>Human-first</strong> - Designed for real people, not just users<br />
+    <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="24" align="left" alt="sparkles" />
+    &nbsp;<strong>Thoughtfully built</strong> - Clean code, scalable architecture<br />
+    <img src="https://media.giphy.com/media/l0HlRUaW2xbn5MHBK/giphy.gif" width="24" align="left" alt="lightbulb" />
+    &nbsp;<strong>Continuously improving</strong> - Always learning, always iterating<br />
+  </div>
 
-<br>
+  <hr>
 
-<!-- ============================================================ -->
-<!--                   COMPREHENSIVE SERVICES                     -->
-<!-- ============================================================ -->
-## 🚀 Our Core Services & Expertise
+  🛠️ What I Work With
 
-<p align="left">We provide end-to-end digital craftsmanship, specializing in tailored business solutions, scalable architecture, and human-centric design. Here is a deep dive into what we build.</p>
+  <div align="center">
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin: 16px 0;">
+      <span><img
+  src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"
+  title="JavaScript" height="28"></span>
+      <span><img
+  src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TS"
+  title="TypeScript" height="28"></span>
+      <span><img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+  alt="React" title="React" height="28"></span>
+      <span><img src="https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
+  alt="Node" title="Node.js" height="28"></span>
+      <span><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+  alt="Python" title="Python" height="28"></span>
+      <span><img
+  src="https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
+  alt="Tailwind" title="Tailwind CSS" height="28"></span>
+      <span><img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
+  alt="Mongo" title="MongoDB" height="28"></span>
+      <span><img
+  src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"
+  alt="Postgres" title="PostgreSQL" height="28"></span>
+      <span><img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
+  alt="Figma" title="Figma" height="28"></span>
+      <span><img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"
+  title="Git" height="28"></span>
+      <span><img
+  src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS
+  Code" title="VS Code" height="28"></span>
+    </div>
+  </div>
 
-<table width="100%" style="border-collapse: collapse;">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎨 UI/UX & Digital Branding</h3>
-      <blockquote><i>We reject overly complex, generic templates in favor of clean, humanized, and self-made design aesthetics.</i></blockquote>
-      <ul>
-        <li><b>Prototyping & Wireframes:</b> Mapping out intuitive user journeys and omnichannel platform experiences.</li>
-        <li><b>Brand Identity:</b> Custom, hand-crafted vector designs and minimalist visual brand assets.</li>
-        <li><b>Frontend Execution:</b> Translating designs into high-performance, responsive interfaces built for real-world application.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚙️ Full-Stack & System Architecture</h3>
-      <blockquote><i>Building robust logic and secure databases capable of handling complex, data-heavy business operations.</i></blockquote>
-      <ul>
-        <li><b>B2B & Management Systems:</b> Developing custom software solutions like automated billing systems and admin dashboards.</li>
-        <li><b>Backend Logic:</b> Structuring secure REST APIs, authentication, and dynamic routing.</li>
-        <li><b>Database Management:</b> Optimizing structured and unstructured data across scalable database environments.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node" />
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <br>
-      <h3>⚡ Automation & AI Workflows</h3>
-      <blockquote><i>Streamlining manual tasks and integrating intelligent features into existing digital products.</i></blockquote>
-      <ul>
-        <li><b>Business Automation:</b> Custom scripts and workflows that save hours on daily operations and data processing.</li>
-        <li><b>AI Integration:</b> Adding generative capabilities, intelligent assistants, and smart search directly into your apps.</li>
-        <li><b>System Optimization:</b> Refactoring legacy code and improving algorithmic performance.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <br>
-      <h3>🎬 Multimedia & Storytelling</h3>
-      <blockquote><i>Captivating audiences through dynamic digital content and engaging visual narratives.</i></blockquote>
-      <ul>
-        <li><b>3D Animation & Video:</b> Producing engaging, animated storytelling content tailored for digital platforms and social media.</li>
-        <li><b>Digital Marketing Assets:</b> High-conversion graphics, promotional banners, and custom event media.</li>
-        <li><b>Interactive Presentations:</b> Pitch decks and product demos that communicate your project's value clearly.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Creative_Cloud-DA1F26?style=flat-square&logo=adobe-creative-cloud&logoColor=white" alt="Adobe CC" />
-        <img src="https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white" alt="AE" />
-      </p>
-    </td>
-  </tr>
-</table>
-<br>
-<!-- ============================================================ -->
-<!--                     ANIMATED TECH STACK                      -->
-<!-- ============================================================ -->
-## 🧰 The Forge Toolkit
+  <hr>
 
-We leverage modern, scalable technologies to bring products to life.
+  📊 Where I Spend My Time
 
-<div align="center">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=DevForgeBuilds&show_icons=true&theme=radical&bg_color=
+  0D1117&text_color=ffffff&icon_color=4ADE80&border_color=2E8B57&hide_border=true" width="48%" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevForgeBuilds&theme=radical&background=0D1117&ring
+  =4ADE80&fire=4ADE80&currStreakLabel=4ADE80&hide_border=true" width="48%" alt="GitHub Streak" />
+  </p>
 
-**Languages & Frameworks**<br>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=js,html,css,react,nodejs,express,php,py,c,cpp,java&theme=dark&animate=true" alt="Languages & Frameworks" />
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevForgeBuilds&bg_color=0D1117&color=4ADE80
+  &line=2E8B57&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  </p>
 
-**Databases & Design Tools**<br>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb,mysql,firebase,figma,xd,ai,ps&theme=dark&animate=true" alt="Databases & Design" />
+  <hr>
 
-**DevOps & Tools**<br>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,vercel,vscode&theme=dark&animate=true" alt="Tools" />
+  💡 Currently Exploring
 
-</div>
+  <details>
+    <summary><strong>🚀 Tech I'm Diving Into</strong></summary>
+    <ul>
+      <li>React Server Components & Streaming SSR</li>
+      <li>WebAssembly for performance-critical web apps</li>
+      <li>AI-assisted development workflows</li>
+      <li>Micro-frontends & module federation</li>
+      <li>Edge computing & CDN-native architectures</li>
+    </ul>
+  </details>
 
-<br>
+  <details>
+    <summary><strong>📚 Learning Journey</strong></summary>
+    <ul>
+      <li>Advanced system design patterns</li>
+      <li>Accessibility auditing & inclusive design</li>
+      <li>Performance optimization techniques</li>
+      <li>Design tokens & theme architecture</li>
+      <li>Developer experience & tooling</li>
+    </ul>
+  </details>
 
-<!-- ============================================================ -->
-<!--                       STUDIO WORKFLOW                        -->
-<!-- ============================================================ -->
-## 📈 How We Work
+  <hr>
 
-<details>
-  <summary><b>1. SOLVE (Discovery & Strategy)</b> <i>[ Click to expand ]</i></summary>
-  <p>We start by understanding your business logic. Whether you need an e-commerce platform or a complex GST billing system, we map out the architecture, user roles, and system requirements before writing a single line of code.</p>
-</details>
+  🤝 Let's Connect
 
-<details>
-  <summary><b>2. BUILD (Design & Development)</b> <i>[ Click to expand ]</i></summary>
-  <p>We craft human-centric UI/UX wireframes and then build the product using robust frameworks. We ensure clean code, secure authentication, and a responsive frontend.</p>
-</details>
+  I'm currently open to:
+  - Freelance projects in web development & UI/UX design
+  - Open source collaborations on developer tools
+  - Mentorship for aspiring developers & designers
+  - Conversations about technology, design, and their intersection
 
-<details>
-  <summary><b>3. SCALE (Launch & Optimize)</b> <i>[ Click to expand ]</i></summary>
-  <p>After rigorous testing, we deploy your product. We build systems designed to handle growth, ensuring databases and APIs remain fast and reliable as your user base expands.</p>
-</details>
+  <p align="center">
+    <a href="https://github.com/DevForgeBuilds?tab=repositories">
+      <img
+  src="https://img.shields.io/badge/-Explore%20My%20Projects-4ADE80?style=for-the-badge&logo=github&logoColor=white"
+  height="32" alt="Explore Projects" />
+    </a>
+    <a href="mailto:devforge.builds@gmail.com?subject=Let's%20Build%20Something%20Great">
+      <img src="https://img.shields.io/badge/-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+  height="32" alt="Email" />
+    </a>
+    <a href="https://linkedin.com/company/devforge-builds">
+      <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+  height="32" alt="LinkedIn" />
+    </a>
+  </p>
 
-<br>
+  <hr>
 
-<!-- ============================================================ -->
-<!--                     LIVE STUDIO METRICS                      -->
-<!-- ============================================================ -->
-## 📊 Studio Activity
+  <p align="center">
+    <i>💻 Writing code with intention • 🎨 Designing with empathy • 🚀 Building for real world impact</i>
+  </p>
 
-<div align="center">
+  <p align="center">
+    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100" alt="thank you" />
+  </p>
 
-*Our continuous integration and daily engineering metrics.*
-
-<br>
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevForgeBuilds&show_icons=true&theme=radical&bg_color=0D1117&text_color=ffffff&icon_color=4ADE80&border_color=2E8B57&hide_border=true&v=1)](https://github.com/DevForgeBuilds)
-[![GitHub Streak](https://streak-stats.demolab.com?user=DevForgeBuilds&theme=dark&background=0D1117&ring=4ADE80&fire=4ADE80&currStreakLabel=4ADE80&border=none&v=1)](https://github.com/DevForgeBuilds)
-
-<br><br>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevForgeBuilds&bg_color=0D1117&color=4ADE80&line=2E8B57&point=ffffff&area=true&hide_border=true&v=1)](https://github.com/DevForgeBuilds)
-
-</div>
-
-<!-- ============================================================ -->
-<!--                       CALL TO ACTION                         -->
-<!-- ============================================================ -->
-<div align="center">
-
-### 🟢 Ready to collaborate? Let's build something great.
-
-We are currently taking on new clients for **Web Development**, **UI/UX Design**, and **Automation Solutions**. 
-
-**📞 +91 98752 68070** &nbsp; | &nbsp; **✉️ [devforge.builds@gmail.com](mailto:devforge.builds@gmail.com)**
-
-*If you find our open-source tools or templates helpful, consider giving our repositories a ⭐️!*
-
-</div>
+  <!--
+  **DevForgeBuilds/DevForgeBuilds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your
+  GitHub profile.
+  -->
