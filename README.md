@@ -182,7 +182,7 @@
   </a>
   <a href="https://linkedin.com/company/devforge-builds">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&labelColor=0D2B1D&color=4ADE80&logo=linkedin&logoColor=white&height=36" alt="LinkedIn" />
-  </a>
+  </a><br><br>
 **📞 +91 98752 68070** &nbsp; | &nbsp; **✉️ [devforge.builds@gmail.com](mailto:devforge.builds@gmail.com)**
   <br><br>
   <p><i>If you find our open-source tools or templates helpful, consider giving our repositories a ⭐️!</i></p>
