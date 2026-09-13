@@ -154,15 +154,14 @@ We leverage modern, scalable technologies to bring products to life.
 
 <br>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevForgeBuilds&show_icons=true&theme=radical&bg_color=0D1117&text_color=ffffff&icon_color=4ADE80&border_color=2E8B57&hide_border=true)](https://github.com/DevForgeBuilds)
-[![GitHub Streak](https://streak-stats.demolab.com?user=DevForgeBuilds&theme=dark&background=0D1117&ring=4ADE80&fire=4ADE80&currStreakLabel=4ADE80&border=none)](https://github.com/DevForgeBuilds)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevForgeBuilds&show_icons=true&theme=radical&bg_color=0D1117&text_color=ffffff&icon_color=4ADE80&border_color=2E8B57&hide_border=true&v=1)](https://github.com/DevForgeBuilds)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DevForgeBuilds&theme=dark&background=0D1117&ring=4ADE80&fire=4ADE80&currStreakLabel=4ADE80&border=none&v=1)](https://github.com/DevForgeBuilds)
 
 <br><br>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevForgeBuilds&bg_color=0D1117&color=4ADE80&line=2E8B57&point=ffffff&area=true&hide_border=true)](https://github.com/DevForgeBuilds)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevForgeBuilds&bg_color=0D1117&color=4ADE80&line=2E8B57&point=ffffff&area=true&hide_border=true&v=1)](https://github.com/DevForgeBuilds)
 
 </div>
----
 
 <!-- ============================================================ -->
 <!--                       CALL TO ACTION                         -->
