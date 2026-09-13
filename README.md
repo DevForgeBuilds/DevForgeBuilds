@@ -183,7 +183,7 @@
   <a href="https://linkedin.com/company/devforge-builds">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&labelColor=0D2B1D&color=4ADE80&logo=linkedin&logoColor=white&height=36" alt="LinkedIn" />
   </a>
-
+**📞 +91 98752 68070** &nbsp; | &nbsp; **✉️ [devforge.builds@gmail.com](mailto:devforge.builds@gmail.com)**
   <br><br>
   <p><i>If you find our open-source tools or templates helpful, consider giving our repositories a ⭐️!</i></p>
 </div>
@@ -198,17 +198,3 @@
 <p align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="180" alt="thank you" />
 </p>
-<!-- ============================================================ -->
-<!--                       CALL TO ACTION                         -->
-<!-- ============================================================ -->
-<div align="center">
-
-### 🟢 Ready to collaborate? Let's build something great.
-
-We are currently taking on new clients for **Web Development**, **UI/UX Design**, and **Automation Solutions**. 
-
-**📞 +91 98752 68070** &nbsp; | &nbsp; **✉️ [devforge.builds@gmail.com](mailto:devforge.builds@gmail.com)**
-
-*If you find our open-source tools or templates helpful, consider giving our repositories a ⭐️!*
-
-</div>
