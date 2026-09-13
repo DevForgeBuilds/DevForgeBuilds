@@ -32,48 +32,72 @@
 <!-- ============================================================ -->
 <!--                   COMPREHENSIVE SERVICES                     -->
 <!-- ============================================================ -->
-## 🌐 Our Core Services
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="35" height="35" align="center" /> Our Core Services & Expertise
 
-We provide end-to-end digital craftsmanship for startups, businesses, and creators. 
+<p align="left">We provide end-to-end digital craftsmanship, specializing in tailored business solutions, scalable architecture, and human-centric design. Here is a deep dive into what we build.</p>
 
-<table>
+<table width="100%" style="border-collapse: collapse;">
   <tr>
     <td width="50%" valign="top">
-      <h3>🎨 UI/UX & Frontend Engineering</h3>
+      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Palette" width="28" height="28" align="center" /> UI/UX & Digital Branding</h3>
+      <blockquote><i>We reject overly complex, generic templates in favor of clean, humanized, and self-made design aesthetics.</i></blockquote>
       <ul>
-        <li><b>UI/UX Design:</b> Wireframes, interactive prototypes, and humanized design systems (Figma/Adobe XD).</li>
-        <li><b>Frontend Development:</b> Responsive, high-performance web applications with modern, stylish UIs.</li>
-        <li><b>Interactive Experiences:</b> Engaging user journeys with clean, self-made aesthetics.</li>
+        <li><b>Prototyping & Wireframes:</b> Mapping out intuitive user journeys and omnichannel platform experiences.</li>
+        <li><b>Brand Identity:</b> Custom, hand-crafted vector designs and minimalist visual brand assets.</li>
+        <li><b>Frontend Execution:</b> Translating designs into high-performance, responsive interfaces built for real-world application.</li>
       </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3>⚙️ Full-Stack & Backend Systems</h3>
+      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="28" height="28" align="center" /> Full-Stack & System Architecture</h3>
+      <blockquote><i>Building robust logic and secure databases capable of handling complex, data-heavy business operations.</i></blockquote>
       <ul>
-        <li><b>Full-Stack MERN:</b> Scalable web apps using React, Node.js, Express, and MongoDB.</li>
-        <li><b>Backend & APIs:</b> Secure REST APIs, database architecture, and third-party integrations.</li>
-        <li><b>Admin Dashboards:</b> Custom internal tools, CMS, and B2B management systems (like invoicing & billing).</li>
+        <li><b>B2B & Management Systems:</b> Developing custom software solutions like automated billing systems and admin dashboards.</li>
+        <li><b>Backend Logic:</b> Structuring secure REST APIs, authentication, and dynamic routing.</li>
+        <li><b>Database Management:</b> Optimizing structured and unstructured data across scalable database environments.</li>
       </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚡ Automation & Optimization</h3>
+      <br>
+      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" alt="Lightning" width="28" height="28" align="center" /> Automation & AI Workflows</h3>
+      <blockquote><i>Streamlining manual tasks and integrating intelligent features into existing digital products.</i></blockquote>
       <ul>
-        <li><b>Workflow Automation:</b> Streamlining repetitive business processes to save time.</li>
-        <li><b>Custom Task Scripts:</b> Intelligent scripting for data processing and conversions.</li>
-        <li><b>System Optimization:</b> Debugging, refactoring, and database performance tuning.</li>
+        <li><b>Business Automation:</b> Custom scripts and workflows that save hours on daily operations and data processing.</li>
+        <li><b>AI Integration:</b> Adding generative capabilities, intelligent assistants, and smart search directly into your apps.</li>
+        <li><b>System Optimization:</b> Refactoring legacy code and improving algorithmic performance.</li>
       </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 AI Solutions & Integration</h3>
+      <br>
+      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clapper%20Board.png" alt="Clapper" width="28" height="28" align="center" /> Multimedia & Storytelling</h3>
+      <blockquote><i>Captivating audiences through dynamic digital content and engaging visual narratives.</i></blockquote>
       <ul>
-        <li><b>AI Integration:</b> Adding smart features and generative capabilities to existing products.</li>
-        <li><b>Smart Workflows:</b> Implementing AI assistants and intelligent logic into business operations.</li>
+        <li><b>3D Animation & Video:</b> Producing engaging, animated storytelling content tailored for digital platforms and social media.</li>
+        <li><b>Digital Marketing Assets:</b> High-conversion graphics, promotional banners, and custom event media.</li>
+        <li><b>Interactive Presentations:</b> Pitch decks and product demos that communicate your project's value clearly.</li>
       </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Creative_Cloud-DA1F26?style=flat-square&logo=adobe-creative-cloud&logoColor=white" alt="Adobe CC" />
+        <img src="https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white" alt="AE" />
+      </p>
     </td>
   </tr>
 </table>
-
 <br>
 
 <!-- ============================================================ -->
