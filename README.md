@@ -32,14 +32,14 @@
 <!-- ============================================================ -->
 <!--                   COMPREHENSIVE SERVICES                     -->
 <!-- ============================================================ -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="35" height="35" align="center" /> Our Core Services & Expertise
+## 🚀 Our Core Services & Expertise
 
 <p align="left">We provide end-to-end digital craftsmanship, specializing in tailored business solutions, scalable architecture, and human-centric design. Here is a deep dive into what we build.</p>
 
 <table width="100%" style="border-collapse: collapse;">
   <tr>
     <td width="50%" valign="top">
-      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Palette" width="28" height="28" align="center" /> UI/UX & Digital Branding</h3>
+      <h3>🎨 UI/UX & Digital Branding</h3>
       <blockquote><i>We reject overly complex, generic templates in favor of clean, humanized, and self-made design aesthetics.</i></blockquote>
       <ul>
         <li><b>Prototyping & Wireframes:</b> Mapping out intuitive user journeys and omnichannel platform experiences.</li>
@@ -53,7 +53,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="28" height="28" align="center" /> Full-Stack & System Architecture</h3>
+      <h3>⚙️ Full-Stack & System Architecture</h3>
       <blockquote><i>Building robust logic and secure databases capable of handling complex, data-heavy business operations.</i></blockquote>
       <ul>
         <li><b>B2B & Management Systems:</b> Developing custom software solutions like automated billing systems and admin dashboards.</li>
@@ -70,7 +70,7 @@
   <tr>
     <td width="50%" valign="top">
       <br>
-      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" alt="Lightning" width="28" height="28" align="center" /> Automation & AI Workflows</h3>
+      <h3>⚡ Automation & AI Workflows</h3>
       <blockquote><i>Streamlining manual tasks and integrating intelligent features into existing digital products.</i></blockquote>
       <ul>
         <li><b>Business Automation:</b> Custom scripts and workflows that save hours on daily operations and data processing.</li>
@@ -84,7 +84,7 @@
     </td>
     <td width="50%" valign="top">
       <br>
-      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clapper%20Board.png" alt="Clapper" width="28" height="28" align="center" /> Multimedia & Storytelling</h3>
+      <h3>🎬 Multimedia & Storytelling</h3>
       <blockquote><i>Captivating audiences through dynamic digital content and engaging visual narratives.</i></blockquote>
       <ul>
         <li><b>3D Animation & Video:</b> Producing engaging, animated storytelling content tailored for digital platforms and social media.</li>
@@ -99,7 +99,6 @@
   </tr>
 </table>
 <br>
-
 <!-- ============================================================ -->
 <!--                     ANIMATED TECH STACK                      -->
 <!-- ============================================================ -->
