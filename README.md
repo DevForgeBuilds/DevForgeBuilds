@@ -152,11 +152,20 @@ We leverage modern, scalable technologies to bring products to life.
 
 *Our continuous integration and daily engineering metrics.*
 
-<img src="https://github-readme-stats.vercel.app/api?username=DevForgeBuilds&show_icons=true&theme=radical&bg_color=0D1117&text_color=ffffff&icon_color=4ADE80&border_color=2E8B57&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DevForgeBuilds&theme=dark&background=0D1117&ring=4ADE80&fire=4ADE80&currStreakLabel=4ADE80&border=none" width="48%" />
+<br>
+
+<a href="https://github.com/DevForgeBuilds">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevForgeBuilds&show_icons=true&theme=radical&bg_color=0D1117&text_color=ffffff&icon_color=4ADE80&border_color=2E8B57&hide_border=true" width="48%" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/DevForgeBuilds">
+  <img src="https://streak-stats.demolab.com?user=DevForgeBuilds&theme=dark&background=0D1117&ring=4ADE80&fire=4ADE80&currStreakLabel=4ADE80&border=none" width="48%" alt="GitHub Streak" />
+</a>
 
 <br><br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevForgeBuilds&bg_color=0D1117&color=4ADE80&line=2E8B57&point=ffffff&area=true&hide_border=true" width="100%" />
+
+<a href="https://github.com/DevForgeBuilds">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevForgeBuilds&bg_color=0D1117&color=4ADE80&line=2E8B57&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</a>
 
 </div>
 
