@@ -1,150 +1,122 @@
-<!-- ============================================================ -->
-<!--                            HEADER                            -->
-<!-- ============================================================ -->
-<div align="center">
+<!-- ======================================================================= -->
+<!--                                HERO SECTION                             -->
+<!-- ======================================================================= -->
+<div align="left">
+  
+  <h1 align="left">⬢ <b>DEVFORGE</b></h1>
+  <h3 align="left">DIGITAL PRODUCT STUDIO <span>//</span> SOFTWARE ENGINEERING</h3>
+  
+  <p align="left">
+    <a href="https://yourwebsite.com"><b>[ 🌐 VISIT OUR WEBSITE ]</b></a> &nbsp;&nbsp; | &nbsp;&nbsp;
+    <b>SOFTWARE PRODUCTS • AUTOMATION • AI SOLUTIONS</b>
+  </p>
+  <br>
 
-# 🟢 DEVFORGE
+  <blockquote>
+    <p><b>I D E A S &nbsp; I N T O &nbsp; I M P A C T .</b><br>
+    <i>We are a specialized engineering and design studio based in Ahmedabad. We partner with businesses to solve problems, build scalable software, and engineer a brighter digital tomorrow.</i></p>
+  </blockquote>
+</div>
 
-#### Digital Product Studio // Software Engineering
+<br><br>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2E8B57&center=true&vCenter=true&width=750&height=50&lines=Software+Products;Automation;AI+Solutions;Ideas+Into+Impact;Solve.+Build.+Scale.+Together." alt="Typing SVG" />
-</a>
+<!-- ======================================================================= -->
+<!--                              SERVICES MENU                              -->
+<!-- ======================================================================= -->
+<h2 align="left">✦ Core Capabilities</h2>
+<p align="left">From initial concept to final deployment, we provide end-to-end digital craftsmanship.</p>
 
-<p align="center">
-  <b>A Brighter Digital Tomorrow</b><br>
-  <i>We bridge the gap between design and development — building interfaces that look sharp and hold up under real use.</i>
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td width="25%" valign="top" style="border: none;">
+      <h3><code>01</code> UI/UX Design</h3>
+      <p>Interfaces<br>Prototypes<br>Design Systems</p>
+    </td>
+    <td width="25%" valign="top" style="border: none;">
+      <h3><code>02</code> Web Dev</h3>
+      <p>Responsive Websites<br>Business Solutions<br>Landing Pages</p>
+    </td>
+    <td width="25%" valign="top" style="border: none;">
+      <h3><code>03</code> Full-Stack</h3>
+      <p>React • Node<br>Express • MongoDB<br>MERN Stack</p>
+    </td>
+    <td width="25%" valign="top" style="border: none;">
+      <h3><code>04</code> Frontend</h3>
+      <p>Modern UI<br>Performance<br>Interactive Experiences</p>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td width="25%" valign="top" style="border: none;">
+      <br>
+      <h3><code>05</code> Backend & APIs</h3>
+      <p>REST APIs<br>Authentication<br>Data Integrations</p>
+    </td>
+    <td width="25%" valign="top" style="border: none;">
+      <br>
+      <h3><code>06</code> Dashboards</h3>
+      <p>Internal Tools<br>CMS Platforms<br>Analytics</p>
+    </td>
+    <td width="25%" valign="top" style="border: none;">
+      <br>
+      <h3><code>07</code> Automation</h3>
+      <p>Workflow Automation<br>Business Processes<br>Custom Scripts</p>
+    </td>
+    <td width="25%" valign="top" style="border: none;">
+      <br>
+      <h3><code>08</code> AI Solutions</h3>
+      <p>AI Integration<br>Smart Features<br>AI Assistants</p>
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+<!-- ======================================================================= -->
+<!--                                TECH STACK                               -->
+<!-- ======================================================================= -->
+<h2 align="left">✦ Technology Infrastructure</h2>
+<p align="left">Built with modern, scalable, and enterprise-ready technologies.</p>
+
+<p align="left">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <!-- Database -->
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <!-- Design -->
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
-</div>
 
-<!-- ============================================================ -->
-<!--                        SOCIAL & CONTACT                      -->
-<!-- ============================================================ -->
-<div align="center">
+<br><br>
 
-[![Email](https://img.shields.io/badge/Email-devforge.builds%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devforge.builds@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-devforge--builds-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/devforge-builds)
-[![Instagram](https://img.shields.io/badge/Instagram-@devforge.builds-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/devforge.builds)
-[![GitHub](https://img.shields.io/badge/GitHub-DevForgeBuilds-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevForgeBuilds)<br/>
-[![Visit Site](https://img.shields.io/badge/🚀_Visit_Our_Website-00C4CC?style=for-the-badge)](#) <!-- Replace # with your actual website link -->
+<!-- ======================================================================= -->
+<!--                               CONTACT/FOOTER                            -->
+<!-- ======================================================================= -->
+<hr>
+<div align="left">
+  <h3>Ready to start a project?</h3>
+  <p><b>S O L V E . &nbsp; B U I L D . &nbsp; S C A L E . &nbsp; T O G E T H E R .</b></p>
+  
+  <p>
+    📍 <b>Location:</b> Ahmedabad, India<br>
+    ✉️ <b>Email:</b> <a href="mailto:devforge.builds@gmail.com">devforge.builds@gmail.com</a><br>
+    📞 <b>Phone:</b> +91 97129 80462
+  </p>
 
-</div>
-
----
-
-<!-- ============================================================ -->
-<!--                          OUR SERVICES                        -->
-<!-- ============================================================ -->
-<div align="center">
-
-### ⚡ BUILD • CODE • LAUNCH
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎨 UI/UX & Frontend
-- **UI/UX Design:** Interfaces • Prototypes • Design Systems
-- **Frontend Engineering:** Modern UI • Performance • Interactive Experiences
-- **Web Development:** Responsive Websites • Business Solutions
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ Backend & Full-Stack
-- **Full-Stack MERN:** React • Node.js • Express • MongoDB
-- **Backend & APIs:** REST APIs • Auth • Integrations • Data
-- **Admin Dashboards:** Internal Tools • CMS • Analytics
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚡ Automation
-- **Workflow Automation:** Streamlining business processes
-- **Task Scripts:** Saving hours through intelligent coding
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI Solutions
-- **AI Integration:** Adding smart features to apps
-- **Smart Workflows:** AI Assistants & data processing
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ============================================================ -->
-<!--                           TECH STACK                         -->
-<!-- ============================================================ -->
-## 🧰 The Forge Toolkit
-
-<table align="center">
-<tr>
-<td align="right" width="170"><b>Frontend</b></td>
-<td>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,react,tailwind&theme=dark" alt="Frontend Stack" />
-</td>
-</tr>
-<tr>
-<td align="right"><b>Backend & APIs</b></td>
-<td>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,php,py&theme=dark" alt="Backend Stack" />
-</td>
-</tr>
-<tr>
-<td align="right"><b>Databases</b></td>
-<td>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb,mysql,firebase&theme=dark" alt="Database Stack" />
-</td>
-</tr>
-<tr>
-<td align="right"><b>Design Tools</b></td>
-<td>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,xd,ai,ps&theme=dark" alt="Design Stack" />
-</td>
-</tr>
-<tr>
-<td align="right"><b>Tools & Version Control</b></td>
-<td>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,vercel&theme=dark" alt="Tools" />
-</td>
-</tr>
-</table>
-
----
-
-<!-- ============================================================ -->
-<!--                  GITHUB METRICS & STATS                      -->
-<!-- ============================================================ -->
-## 📊 Studio Activity
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=DevForgeBuilds&theme=dark&hide_border=true&background=0D1117&ring=2E8B57&fire=2E8B57&currStreakLabel=2E8B57)](https://git.io/streak-stats)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevForgeBuilds&bg_color=0D1117&color=2E8B57&line=2E8B57&point=ffffff&area=true&hide_border=true)](https://github.com/DevForgeBuilds)
-
-</div>
-
----
-
-<!-- ============================================================ -->
-<!--                        CALL TO ACTION                        -->
-<!-- ============================================================ -->
-<div align="center">
-
-### 📍 Based in Ahmedabad, India
-
-**Ready to turn your ideas into impact?**<br>
-Drop us an email at **[devforge.builds@gmail.com](mailto:devforge.builds@gmail.com)** or call **+91 97129 80462**.
-
-⭐️ *If you like our work, consider starring our repositories!*
-
+  <p>
+    <a href="https://github.com/DevForgeBuilds">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+    <a href="https://linkedin.com/company/devforge-builds">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://instagram.com/devforge.builds">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    </a>
+  </p>
 </div>
