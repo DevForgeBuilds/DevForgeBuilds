@@ -1,12 +1,33 @@
+<!-- ============================================================ -->
+<!--                       DYNAMIC HEADER                         -->
+<!-- ============================================================ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color0=0D2B1D&color1=115E59&color2=17A2B8&text=DEVFORGE&fontSize=80&fontAlignY=35&desc=Digital%20Product%20Studio&descAlignY=55&descSize=24&animation=twinkling&fontColor=FFFFFF&stroke=4ADE80" width="100%" alt="DevForge Banner" />
+
+<!-- Animated Waving Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D2B1D&height=220&section=header&text=DEVFORGE&fontSize=70&fontAlignY=35&desc=Digital%20Product%20Studio%20//%20Software%20Engineering&descAlignY=55&descSize=20&animation=twinkling&fontColor=4ADE80" />
+
+<!-- Animated Typing Text -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=4ADE80&center=true&vCenter=true&width=800&height=50&lines=Software+Products+%26+Business+Solutions;Humanized+UI%2FUX+%26+Brand+Identities;Workflow+Automation+%26+AI+Integration;Ideas+Into+Impact.;Solve.+Build.+Scale.+Together." alt="Typing SVG" />
+</a>
+
+<p align="center">
+  <b>📍 Based in Ahmedabad, India | Engineering A Brighter Digital Tomorrow</b>
+</p>
+
+[![Contact Us](https://img.shields.io/badge/📧_Email_Us-devforge.builds@gmail.com-D14836?style=for-the-badge)](mailto:devforge.builds@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DevForge-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/devforge-builds)
+[![Instagram](https://img.shields.io/badge/Instagram-@devforge.builds-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/devforge.builds)
+[![Website](https://img.shields.io/badge/🚀_Visit_Our_Website-000000?style=for-the-badge)](#)
+
+<br>
+
+> ### ✦ I D E A S &nbsp; I N T O &nbsp; I M P A C T
+> *We are a specialized engineering and design studio. We reject artificial, overly complex templates in favor of humanized, professional design aesthetics and highly scalable architecture. From initial wireframes to fully deployed business management systems, we build interfaces that look sharp and hold up under real use.*
+
 </div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=4ADE80&center=true&vCenter=true&width=900&height=70&lines=Where+Innovation+Meets+Purpose;Building+Digital+Experiences+That+Matter;From+Concept+to+Impact" alt="Typing SVG" />
-  </a>
-</div>
+<br>
 
 <p align="center">
   <b>📍 Based in Ahmedabad, India | Engineering A Brighter Digital Tomorrow</b>
